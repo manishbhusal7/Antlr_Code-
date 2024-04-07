@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": [
+        "Hello/Array/Array/java_dir"
+    ],
+    "java.project.referencedLibraries": [
+        "/home/manish/code/Antlr/Antlr-4.8-complete.jar",
+        "./Hello/.antlr",
+        "/home/manish/Downloads/antlr-4.13.1-complete.jar"
+    ],
+    "antlr4.generation": {
+        "mode": "external",
+        "language": "Java",
+        "outputDir": "java_dir",
+        "listeners": true,
+        "visitors": false
+    }
+}
